@@ -60,7 +60,7 @@ export default function HomeScreen() {
 
   return (
     <View className="h-[7] flex-1 relative">
-      <StatusBar style="light" />
+      <StatusBar style="auto" />
       <Image
         blurRadius={13}
         source={{
